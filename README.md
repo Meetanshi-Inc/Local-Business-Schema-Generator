@@ -1,4 +1,4 @@
-# Local Business Schema Generator
+# Local Business Schema Generator for Rich result
 
 Local Business Schema is a type of structured data that provides information about a local business to search engines. This information includes the business’ name, address, phone number, hours of operation, and other relevant details. Search engines use this information to display rich snippets in the search results, which can improve the visibility and click-through rate of a local business.
 
